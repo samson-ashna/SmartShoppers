@@ -1,4 +1,4 @@
-	This repository contains a SOFTWARE DESIGN project where I created an online shopping system.
+  This repository contains a SOFTWARE DESIGN project where I created an online shopping system.
 
   SmartShoppers is an incredibly efficient online system for shoppers as well as for sellers to use modern technology advancing through the internet to make use of browsing through online stores using their own account, to views items online by name or category and other criteria, to help make purchasing items in a store of their choosing a quicker and more efficient experience for all. Also, managers and administrators have the privileges to update fundamental information about SmartShoppers such as each item’s categorical section on the map at certain locations, store hours, list of stores available, and many more.
 		
