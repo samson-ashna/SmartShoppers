@@ -1,12 +1,12 @@
 package CSVFiles;
 
-public class Admin {
+public class User {
 	public String name;
 	public int id;
 	public String email;
 	public String password;
 	
-	public Admin(String name, int id, String email, String password) {
+	public User(String name, int id, String email, String password) {
 		super();
 		this.name = name;
 		this.id = id;
@@ -14,7 +14,7 @@ public class Admin {
 		this.password = password;
 	}
 	
-	public Admin(){
+	public User(){
 		super();
 	}
 	
@@ -53,7 +53,7 @@ public class Admin {
 
 	@Override
 	public String toString() {
-		return "Admin [name=" + name + ", id=" + id + ", email=" + email + ", password=" + password + "]";
+		return "User [name=" + name + ", id=" + id + ", email=" + email + ", password=" + password + "]";
 	}
 	
 }
