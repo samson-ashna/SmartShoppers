@@ -4,5 +4,6 @@
   There are several design patterns that could be used to implement this online system which can be divided into three types. Creational patterns create objects for you which make programs more flexible to the user. Structural patterns use inheritance to compose implementations or interfaces in classes, and in objects to form larger structures. Lastly, behavioral patterns communicate between classes and objects and control the way they interact and distribute responsibility. 
 
   **SmartShoppers FINAL refiined UML class diagram:**
-![image](https://github.com/samson-ashna/SmartShoppers/assets/46391817/974b98fc-6bec-44e1-92e8-7045b09312d1)
+![image](https://github.com/samson-ashna/SmartShoppers/assets/46391817/3ab05f15-a91f-4595-a4d8-d476577544cb)
+
 
